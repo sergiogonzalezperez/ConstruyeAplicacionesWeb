@@ -1,0 +1,23 @@
+#mybody {
+    background-color: lightblue;
+  }
+  
+  #myh1 {
+    color: red;
+    text-align: center;
+  }
+  
+#myh2
+{
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+    font-family: verdana;
+    font-weight: bold;
+  }
+
+  #myp {
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+  }
